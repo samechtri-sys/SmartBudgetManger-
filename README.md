@@ -16,3 +16,4 @@ The website is a folder called esi-portal with four files. No internet connectio
 3.	Open the extracted folder esi-portal. You must see four files: index.html, marks.html, help.html and style.css. Keep them together in the same folder. If style.css is missing or moved, the pages look plain.
 4.	Double-click index.html. It opens in your default browser (Chrome, Edge or Firefox). If it opens in a text editor and you see code, close it, right-click the file, choose Open with, then pick your browser. You can also drag the file into an open browser window.
 5.	Use the links of the site to go from one page to another. The three pages are index.html (registration), marks.html (marks and exam status) and help.html (help, news and support). Use the browser Back button to return.
+This is my first Git project.
